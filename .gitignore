@@ -1,0 +1,5 @@
+.mypy_cache
+.ipynb_checkpoints
+Pipfile
+Pipfile.lock
+.DS_Store
